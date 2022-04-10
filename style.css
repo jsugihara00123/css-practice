@@ -1,0 +1,29 @@
+.red {
+    color:red
+}
+.blue {
+    color:blue
+}
+.green {
+    color:green
+}
+#p3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.multiple {
+    font-size: 40px; 
+    color: orange; 
+    font-weight: bold
+}
+.styledFont {
+    font-size: 25; 
+    color: maroon; 
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+    font-weight: 800;
+}
+#styledImage {
+    border-style: dotted;
+    border-width: 10px;
+    border-color: blueviolet;
+}
